@@ -1,8 +1,8 @@
-import "./App.css";
-import { BodyContainer } from "./components/BodyContainer";
+import './App.css';
+import AskQuestion from './pages/AskQuestion';
 
 function App() {
-  return <BodyContainer />;
+    return <AskQuestion />;
 }
 
 export default App;
