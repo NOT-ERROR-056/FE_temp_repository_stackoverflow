@@ -1,0 +1,66 @@
+{
+    "question": [
+        {
+            "id": 1,
+            "title": "Opening Party!",
+            "content": "Hello my name is James",
+            "createdAt": "2022.4.23",
+            "updatedAt": "2022.6.18",
+            "userId": "James Kang",
+            "hitNum": 10,
+            "recommend": 5,
+            "tag": "java"
+        },
+        {
+            "id": 2,
+            "title": "Hello World",
+            "content": "Good Morning",
+            "createdAt": "2022.4.30",
+            "updatedAt": "2022.8.18",
+            "userId": "Kim Coding",
+            "hitNum": 20,
+            "recommend": 1,
+            "tag": "javascript"
+        },
+        {
+            "id": 3,
+            "title": "I like milk",
+            "content": "한글도 한번 써볼까",
+            "createdAt": "2022.6.15",
+            "updatedAt": "2022.8.27",
+            "userId": "Kim Hongsik",
+            "hitNum": 12,
+            "recommend": 9,
+            "tag": "python"
+        }
+    ],
+    "answer": [
+        {
+            "id": 1,
+            "content": "한글 답변도 가능한가요?",
+            "createdAt": "2022.5.13",
+            "updatedAt": "2022.5.20",
+            "userId": "Park Hacker",
+            "questionId": 2,
+            "recommend": 0
+        },
+        {
+            "id": 2,
+            "content": "Hack your life",
+            "createdAt": "2022.4.23",
+            "updatedAt": "2022.6.18",
+            "userId": "Park Hacker",
+            "questionId": 1,
+            "recommend": 1
+        },
+        {
+            "id": 3,
+            "content": "한국사람 만나니까 반갑네요",
+            "createdAt": "2022.6.16",
+            "updatedAt": "2022.6.18",
+            "userId": "Park Hacker",
+            "questionId": 3,
+            "recommend": 0
+        }
+    ]
+}
