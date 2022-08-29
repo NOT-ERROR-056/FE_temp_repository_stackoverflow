@@ -1,0 +1,73 @@
+{
+  "question": [
+    {
+      "id": 1,
+      "title": "Opening Party!",
+      "content": "Hello my name is James",
+      "createdAt": "2022.4.23",
+      "updatedAt": "2022.6.18",
+      "userId": "James Kang",
+      "hitNum": 10,
+      "recommend": 5,
+      "tag": "java"
+    },
+    {
+      "id": 2,
+      "title": "Hello World",
+      "content": "Good Morning",
+      "createdAt": "2022.4.30",
+      "updatedAt": "2022.8.18",
+      "userId": "Kim Coding",
+      "hitNum": 20,
+      "recommend": 1,
+      "tag": "javascript"
+    }
+  ],
+  "answer": [
+    {
+      "id": 1,
+      "content": "한글 답변도 가능한가요?",
+      "createdAt": "2022.5.13",
+      "updatedAt": "2022.5.20",
+      "userId": "Park Hacker",
+      "questionId": 2,
+      "recommend": 0
+    },
+    {
+      "id": 2,
+      "content": "Hack your life",
+      "createdAt": "2022.4.23",
+      "updatedAt": "2022.6.18",
+      "userId": "Park Hacker",
+      "questionId": 1,
+      "recommend": 1
+    },
+    {
+      "content": "post요청이 될까?",
+      "createdAt": "2022.8.28",
+      "updatedAt": "2022.8.28",
+      "userId": "Kim Coding",
+      "questionId": 2,
+      "recommend": 2,
+      "id": 4
+    },
+    {
+      "content": "한번 더 도전!!!",
+      "createdAt": "2022. 8. 28.",
+      "updatedAt": "2022. 8. 28.",
+      "userId": "돌고래",
+      "questionId": 2,
+      "recommend": 0,
+      "id": 5
+    },
+    {
+      "content": "안녕하세요 저는 답변달기 테스트예요!",
+      "createdAt": "2022. 8. 28.",
+      "updatedAt": "2022. 8. 28.",
+      "userId": "돌고래",
+      "questionId": 2,
+      "recommend": 0,
+      "id": 6
+    }
+  ]
+}
